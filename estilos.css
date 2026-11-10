@@ -1,0 +1,34 @@
+html { /* color de fondo */
+    background-color: rgb(196, 193, 193);
+}
+
+body {
+    padding: 0;
+    margin: 0;
+}
+
+.tope {
+    background-color: rgb(175, 175, 221);
+    width: 1000hv;
+    height: 150px;
+    text-align: center;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+h1  {
+    font-size: 60px;
+    margin-bottom: 0%;
+    color: white;
+}
+h6 {
+    margin-top: 0%;
+}
+.contenido {
+    background-color: white;
+    margin: 0 auto;
+    width: 500px;
+    padding: 20px;
+}
